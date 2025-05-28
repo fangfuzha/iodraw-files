@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-6" value="创建数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="55" width="120" height="60" as="geometry" />
+          <mxGeometry x="691" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-7" value="训练cnn模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="892" y="55" width="120" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="892" y="203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-9" value="批量转换张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="662" y="203" width="120" height="60" as="geometry" />
+          <mxGeometry x="694" y="201" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-10" value="人脸检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737" y="400" width="120" height="60" as="geometry" />
