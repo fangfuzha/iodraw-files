@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-1" value="参数设置" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="187" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="84" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWdOZqfZW--5UDeMyLcl-2" target="BWdOZqfZW--5UDeMyLcl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-2" value="加载人脸图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="266" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWdOZqfZW--5UDeMyLcl-5" target="BWdOZqfZW--5UDeMyLcl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-5" value="检测和裁剪人脸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="474" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWdOZqfZW--5UDeMyLcl-6" target="BWdOZqfZW--5UDeMyLcl-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-6" value="创建数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="626" y="46" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-7" value="训练cnn模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="560" width="120" height="60" as="geometry" />
