@@ -31,8 +31,11 @@
         <mxCell id="BWdOZqfZW--5UDeMyLcl-10" value="人脸检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="571" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWdOZqfZW--5UDeMyLcl-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-11" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="641" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="495" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
