@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-6" value="创建数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="46" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-7" value="训练cnn模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="892" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-8" value="读取视频帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="738" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="905" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-9" value="批量转换张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="127" width="120" height="60" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="680" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-13" value="添加帧信息标记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="704" y="478" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="632" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-14" value="所有匹配的帧合并&lt;div&gt;创建新视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="733" y="587" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="745" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
