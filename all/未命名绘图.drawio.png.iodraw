@@ -16,6 +16,9 @@
         <mxCell id="BWdOZqfZW--5UDeMyLcl-5" value="检测和裁剪人脸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-6" value="创建数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="457" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
