@@ -22,7 +22,7 @@
         <mxCell id="BWdOZqfZW--5UDeMyLcl-7" value="训练cnn模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="554" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWdOZqfZW--5UDeMyLcl-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-8" value="读取视频帧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="146" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
