@@ -41,16 +41,16 @@
           <mxGeometry x="419" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-11" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="417" y="246" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-12" value="连续帧验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="603" y="527" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-13" value="添加帧信息标记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="617" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-14" value="所有匹配的帧合并&lt;div&gt;创建新视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="743" width="120" height="60" as="geometry" />
+          <mxGeometry x="604" y="243" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
