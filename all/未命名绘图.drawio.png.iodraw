@@ -46,8 +46,10 @@
         <mxCell id="BWdOZqfZW--5UDeMyLcl-9" value="批量转换张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="197" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWdOZqfZW--5UDeMyLcl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWdOZqfZW--5UDeMyLcl-10" target="BWdOZqfZW--5UDeMyLcl-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWdOZqfZW--5UDeMyLcl-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546" y="237" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-10" value="人脸检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="324" width="120" height="60" as="geometry" />
@@ -63,9 +65,6 @@
         </mxCell>
         <mxCell id="BWdOZqfZW--5UDeMyLcl-14" value="所有匹配的帧合并&lt;div&gt;创建新视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="347" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BWdOZqfZW--5UDeMyLcl-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="157" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
