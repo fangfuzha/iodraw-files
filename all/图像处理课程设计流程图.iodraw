@@ -1,0 +1,79 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1278" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-1" target="BWdOZqfZW--5UDeMyLcl-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-1" value="参数设置" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="84" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-2" target="BWdOZqfZW--5UDeMyLcl-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-2" value="加载人脸图像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="266" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-5" target="BWdOZqfZW--5UDeMyLcl-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-5" value="检测和裁剪人脸" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="474" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-6" target="BWdOZqfZW--5UDeMyLcl-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-6" value="创建数据集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="691" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-7" target="BWdOZqfZW--5UDeMyLcl-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-7" value="训练cnn模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="892" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-8" target="BWdOZqfZW--5UDeMyLcl-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-8" value="读取视频帧" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="892" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-9" target="BWdOZqfZW--5UDeMyLcl-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-9" value="批量转换张量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="694" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-10" target="BWdOZqfZW--5UDeMyLcl-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-10" value="人脸检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="474" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-11" target="BWdOZqfZW--5UDeMyLcl-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-11" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="268" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-12" target="BWdOZqfZW--5UDeMyLcl-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-12" value="连续帧验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="84" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="BWdOZqfZW--5UDeMyLcl-13" target="BWdOZqfZW--5UDeMyLcl-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-13" value="添加帧信息标记" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="84" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BWdOZqfZW--5UDeMyLcl-14" value="所有匹配的帧合并&lt;div style=&quot;font-size: 20px;&quot;&gt;创建新视频&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="270" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
