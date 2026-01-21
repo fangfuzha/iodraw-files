@@ -180,6 +180,182 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-39" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2130" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-40" value="访问网站" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="133" y="2229" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-41" value="未登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="141" y="2392" width="97" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-42" value="显示登录/注册选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="91" y="2539" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-43" value="选择注册" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="229" y="2638" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-44" value="注册页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="224" y="2801" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-45" value="填写注册信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="151" y="2900" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-46" value="提交注册" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="173" y="3022" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-47" value="验证信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="224" y="3185" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-48" value="创建用户账户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="208" y="3307" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-49" value="跳转到登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3438" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-50" value="选择登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3406" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-51" value="登录页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="128" y="3569" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-52" value="填写登录信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3668" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-53" value="提交登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="77" y="3790" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-54" value="验证信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="128" y="3953" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-55" value="登录成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="128" y="4075" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-56" value="显示用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="112" y="4174" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-39" target="uri-vzXTXWRTDIFye814-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-40" target="uri-vzXTXWRTDIFye814-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-41" target="uri-vzXTXWRTDIFye814-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-42" target="uri-vzXTXWRTDIFye814-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="2613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-43" target="uri-vzXTXWRTDIFye814-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-44" target="uri-vzXTXWRTDIFye814-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="2875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-45" target="uri-vzXTXWRTDIFye814-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-46" target="uri-vzXTXWRTDIFye814-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="3160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-65" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-47" target="uri-vzXTXWRTDIFye814-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-66" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-47" target="uri-vzXTXWRTDIFye814-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="342" y="3160" />
+              <mxPoint x="342" y="2875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-48" target="uri-vzXTXWRTDIFye814-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-42" target="uri-vzXTXWRTDIFye814-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="77" y="2613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-50" target="uri-vzXTXWRTDIFye814-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="77" y="3544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-51" target="uri-vzXTXWRTDIFye814-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="3643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-52" target="uri-vzXTXWRTDIFye814-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-53" target="uri-vzXTXWRTDIFye814-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="3928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-73" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-54" target="uri-vzXTXWRTDIFye814-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-74" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-54" target="uri-vzXTXWRTDIFye814-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246" y="3928" />
+              <mxPoint x="246" y="3643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-55" target="uri-vzXTXWRTDIFye814-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uri-vzXTXWRTDIFye814-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="1" source="uri-vzXTXWRTDIFye814-49" target="uri-vzXTXWRTDIFye814-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="3544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
